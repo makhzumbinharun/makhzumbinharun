@@ -3,7 +3,7 @@
 🔭I am currently involved in my academics.<br>👯I’m looking to learn from other programmers.<br>🤝I am seeking assistance with competitive programming.<br>🌱I’m currently learning web development and some other courses.<br>⚡Fun fact: I love to watch tech-related videos
 
 
-## 🌐 Socials:
+## 🌐 Profiles:
 
 [![CodeForces](https://img.shields.io/badge/-CodeChef-5B4638?style=for-the-badge&logo=CodeChef&logoColor=white)](https://www.codechef.com/users/makhzum)
 [![CodeForces](https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=Codeforces&logoColor=white)](https://codeforces.com/profile/makhzumbinharun)
