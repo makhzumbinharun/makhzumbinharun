@@ -52,6 +52,8 @@
 ![](https://github-contributor-stats.vercel.app/api?username=makhzumbinharun&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
+![](https://komarev.com/ghpvc/?username=makhzumbinharun&label=Profile%20views&color=0e75b6&&style=for-the-badge)
+
 [![](https://visitcount.itsvg.in/api?id=makhzumbinharun&icon=0&color=3)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
