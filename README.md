@@ -10,7 +10,7 @@
 [![HackerRank](https://img.shields.io/badge/Hackerrank-Profile-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/makhzumbinharun)
 [![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=white)](https://leetcode.com/u/makhzumbinharun)
 <a href="https://toph.co/u/makhzumbinharun"> <img src="https://static.toph.co/images/logo-white.png" alt="Toph" height="28"/></a>
-<a href="https://cses.fi/user/382896n"> <img src="https://cses.fi/logo.png?1" alt="Toph" height="28"/></a>
+<a href="https://cses.fi/user/382896"> <img src="https://cses.fi/logo.png?1" alt="Toph" height="28"/></a>
 [![VJUDGE](https://vjudge.net/static/bundle/11b24ab2156955d8f3fa.ico?style=for-the-badge&logo=vjudgee&logoColor=white)](https://vjudge.net/user/makhzumbinharun)
 
 
