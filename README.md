@@ -16,8 +16,7 @@
 
 [![ResearchGate](https://img.shields.io/badge/Research_Gate-00CCBB.svg?&style=for-the-badge&logo=ResearchGate&logoColor=white)](https://www.researchgate.net/profile/Makhzum-Bin-Harun)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/makhzumbinharun)
-<a href="https://www.kaggle.com/makhzumbinharun"> <img src="https://www.kaggle.com/static/images/site-logo.svg" alt="Kaggle" height="28"/></a>
-
+<a href="https://www.kaggle.com/makhzumbinharun" target="_blank"> <img src="https://www.kaggle.com/static/images/site-logo.svg" alt="Kaggle" height="28"/></a>
 
 [![Fiverr](https://img.shields.io/badge/fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white)](https://www.fiverr.com/makhzum)
 [![Website](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://sites.google.com/view/makhzumbinharun)
