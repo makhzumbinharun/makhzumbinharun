@@ -58,6 +58,9 @@
 ![](https://github-readme-stats.vercel.app/api?username=makhzumbinharun&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=makhzumbinharun&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=makhzumbinharun&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+## GitHub Activity
+
+![GitHub Contribution Graph](https://gitlyy.vercel.app/api/contribution?username=makhzumbinharun&hide_border=true)
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=makhzumbinharun&theme=dark&no-frame=false&no-bg=true&margin-w=4)
